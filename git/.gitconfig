@@ -1,0 +1,9 @@
+[user]
+	email = phantaiduc2005@gmail.com
+	name = taiduc1001
+[credential "https://github.com"]
+	helper = 
+	helper = !/home/linuxbrew/.linuxbrew/bin/gh auth git-credential
+[credential "https://gist.github.com"]
+	helper = 
+	helper = !/home/linuxbrew/.linuxbrew/bin/gh auth git-credential
